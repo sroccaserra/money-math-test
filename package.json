@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "money-math": "^2.4.1"
+    "money-math": "^2.4.1",
+    "numeral": "^1.5.3"
   },
   "devDependencies": {
     "tap-spec": "^4.1.1",
